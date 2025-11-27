@@ -1,0 +1,7 @@
+{
+  "name": "J.A.R.V.I.S. Holographic Interface",
+  "description": "A futuristic Iron Man style HUD featuring a 3D holographic earth controlled by hand gestures via webcam and MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
